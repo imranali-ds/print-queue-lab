@@ -1,0 +1,44 @@
+[
+  {
+    "presses": 1,
+    "rule": "arrival",
+    "late": 10,
+    "meanTurnaround": 143.83333333333334,
+    "maxDelay": 110
+  },
+  {
+    "presses": 1,
+    "rule": "duration",
+    "late": 3,
+    "meanTurnaround": 85.83333333333333,
+    "maxDelay": 180
+  },
+  {
+    "presses": 1,
+    "rule": "due",
+    "late": 8,
+    "meanTurnaround": 113.91666666666667,
+    "maxDelay": 70
+  },
+  {
+    "presses": 2,
+    "rule": "arrival",
+    "late": 0,
+    "meanTurnaround": 50.666666666666664,
+    "maxDelay": 0
+  },
+  {
+    "presses": 2,
+    "rule": "duration",
+    "late": 0,
+    "meanTurnaround": 47.75,
+    "maxDelay": 0
+  },
+  {
+    "presses": 2,
+    "rule": "due",
+    "late": 0,
+    "meanTurnaround": 47.916666666666664,
+    "maxDelay": 0
+  }
+]
